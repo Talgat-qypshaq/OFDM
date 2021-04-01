@@ -1,5 +1,5 @@
 NVCC=nvcc
-CUDAFLAGS= -arch=sm_30
+CUDAFLAGS= -arch=sm_60
 OPT= -g -G
 RM=/bin/rm -f
 all: OFDM
